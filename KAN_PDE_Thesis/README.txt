@@ -34,7 +34,7 @@ This project accompanies the research work developed during the Master's Thesis 
 
 Example result for the 1D Fokker–Planck equation:
 
-![Fokker-Planck Result](KAN_PDE_Thesis/results/fokker_planck_best_seed48_20260121_175514.png)
+![Fokker-Planck Result](results/fokker_planck_best_seed48_20260121_175514.png)
 
 
 
