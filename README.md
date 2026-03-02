@@ -85,5 +85,5 @@ https://github.com/Blealtan/efficient-kan
 
 The full Master's Thesis accompanying this repository is available here:
 
-[Download Thesis PDF](thesis/Campolo_Kolmogorov_Arnold_Theorem_Neural_Networks.pdf)
+[Download Thesis PDF](Thesis/Campolo_Kolmogorov_Arnold_Theorem_Neural_Networks.pdf)
 
